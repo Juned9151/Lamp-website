@@ -1,4 +1,4 @@
 Designed landing page UI for Lamp website  
 
-![ottMovieWebsite](images/Preview1.JPG)
-![ottMovieWebsite01](images/Preview2.Jpg)
+![lampWebsite](images/Off.JPG)
+![lampWebsite01](images/On.jpg)
